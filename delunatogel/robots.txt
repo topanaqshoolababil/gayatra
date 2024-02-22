@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://ftp.shek.it/delunatogel/sitemap.xml
